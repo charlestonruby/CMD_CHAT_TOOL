@@ -1,0 +1,15 @@
+{
+  "name": "CMD_IM",
+  "version": "1.0.0",
+  "description": "A command line chat app",
+  "main": "client2.js",
+  "dependencies": {
+    "jackrabbit": "^3.0.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Collins <kcollins@carekinesis.com>",
+  "license": "ISC"
+}
